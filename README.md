@@ -12,7 +12,7 @@ DSX Touch](https://www.clage.com/en/products/e-comfort-instant-water-heaters/DSX
 
 Unfortunately, the documentation is currently only available as a **[PDF in German](doc/CLAGE_HomeServer_API_v1.3.4.pdf)**. We will change that.
 
-As an english reference you can have a look at the [third party examples](#Third_Party) already implemented.
+As an english reference you can have a look at the [third party examples](#third-party) already implemented.
 
 ## APPs
 
