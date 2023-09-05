@@ -6,7 +6,8 @@ CLAGE GmbH devices that do support [WLAN](https://en.wikipedia.org/wiki/Wireless
 This API sometimes is called "Homeserver API" but you do not need a dedicated HSX hardware if your CLAGE device is supporting WLAN:
 
 * [E-comfort instant water heater
-DSX Touch](https://www.clage.com/en/products/e-comfort-instant-water-heaters/DSX-Touch) *continuous-flow water heater supporting REST API over WLAN*
+**DSX Touch**](https://www.clage.com/en/products/e-comfort-instant-water-heaters/DSX-Touch) *continuous-flow water heater supporting REST API over WLAN*
+* new announced [**ISX**](https://www.haustechnikdialog.de/News/27889/Neue-E-Durchlauferhitzer-auf-der-ISH-2023) *will provide REST API and Modbus RTU*
 
 ## Documentation
 
@@ -35,5 +36,7 @@ You acknowledge that you use third-party software at your own risk and that you 
 * **[Home Assistant](https://www.home-assistant.io/):** [klacol/homeassistant-clage_homeserver](https://github.com/klacol/homeassistant-clage_homeserver) *Home Assistant integration for the water heater CLAGE DSX Touch*
 
 * **[EisBaer SCADA](https://www.busbaer.de/en):** [included](https://www.busbaer.de/de/news?story=269882)
+
+* **[wibutler](https://dbt-platform.com):** included
 
 * **[Python](https://www.python.org/):** [klacol/clage_homeserver](https://github.com/klacol/clage_homeserver) *Python client for accessing the Clage Waterheater via the local https-Rest-API-Endpoint*
