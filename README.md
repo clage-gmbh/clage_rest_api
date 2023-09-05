@@ -1,3 +1,5 @@
+<p align="center"><img src="https://www.clage.com/assets/gfx/logo.svg" alt="CLAGE GmbH" width="150"> <i>REST</i></p>
+
 # CLAGE GmbH devices REST API
 
 ## Hardware
