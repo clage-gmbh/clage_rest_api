@@ -9,7 +9,7 @@ This API sometimes is called "Homeserver API" but you do not need a dedicated HS
 
 * [E-comfort instant water heater
 **DSX Touch**](https://www.clage.com/en/products/e-comfort-instant-water-heaters/DSX-Touch) *continuous-flow water heater supporting REST API over WLAN*
-* new announced [**ISX**](https://www.haustechnikdialog.de/News/27889/Neue-E-Durchlauferhitzer-auf-der-ISH-2023) *will provide REST API and Modbus RTU*
+* new announced [**ISX**](https://www.haustechnikdialog.de/News/27889/Neue-E-Durchlauferhitzer-auf-der-ISH-2023) *will provide REST API and [Modbus RTU](https://github.com/clage-gmbh/clage_modbus)*
 
 ## Documentation
 
