@@ -4,7 +4,7 @@
 
 ## Hardware
 
-CLAGE GmbH devices that do support [WLAN](https://en.wikipedia.org/wiki/Wireless_LAN) do also provide a [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) API, which is used by the [CLAGE Smart Control APP](https://play.google.com/store/apps/details?id=de.clage.smartcontrol) too.
+CLAGE GmbH devices that do support [WLAN](https://en.wikipedia.org/wiki/Wireless_LAN) do also provide a [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) API, which is used by the [CLAGE Smart Control APP](#apps) too.
 This API sometimes is called "Homeserver API" but you do not need a dedicated HSX hardware if your CLAGE device is supporting WLAN:
 
 * [E-comfort instant water heater
