@@ -15,7 +15,7 @@ This API sometimes is called "Homeserver API" but you do not need a dedicated HS
 
 Unfortunately, the documentation is currently only available as a **[PDF in German](doc/CLAGE_HomeServer_API_v1.3.4.pdf)**. We will change that.
 
-As an english reference you can have a look at the [third party examples](#third-party) already implemented.
+As an english reference you can have a look at the [third party examples](#third-party) already implemented and [usage examples in the Wiki](../../wiki#usage)
 
 ## APPs
 
